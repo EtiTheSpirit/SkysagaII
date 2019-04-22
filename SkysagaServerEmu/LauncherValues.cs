@@ -28,10 +28,8 @@ namespace SkysagaServerEmu {
 		public string Password { get; set; } = "";
 
 		/// <summary>
-		///	<para>Purpose is unknown.
-		///	Seems to store a URL. When the game runs, packets directed to this URL are sent by the game.</para>
-		///	<para>SPECULATION: WS is an alias for "World Server", meaning that this URL points to the game servers.</para>
-		///	<para>n.b. This value does not seem to alter SkySaga.exe if it is passed in via program args, and cannot be used to redirect traffic.</para>
+		/// <para>Purpose is unknown.</para>
+		/// <para>SPECULATION: This is a game server url. "ws" may be short for "World Server". This URL is similar to the game server url accessed by SkySaga.exe (pcdevelop.vm.rw). The differences between the two internally are unknown.</para>
 		/// </summary>
 		public Uri ws_host { get; set; } = new Uri("http://pcreleaseqa.vm.rw");
 
@@ -123,7 +121,7 @@ namespace SkysagaServerEmu {
 		/// <summary>
 		/// <para>Purpose is unknown.
 		/// Presumably stores the URL used to change your character's name or file a request to do so.</para>
-		/// <para>There was no public means of changing your character name provided in the launcher, which may mean that this property was never used in production.</para>
+		/// <para>There was no public means of changing your character name provided in the launcher, and this property was never used in production.</para>
 		/// </summary>
 		public string reset_char_name_link { get; set; } = "";
 
