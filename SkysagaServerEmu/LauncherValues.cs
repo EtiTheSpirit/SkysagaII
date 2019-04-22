@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,8 @@ namespace SkysagaServerEmu {
 		// ...Except it was a system config value and thus had to use the DefaultSettingsValue attribute, which exposed the data.
 		// Good work.
 
-		// All datatypes are correcet. There are some weird discrepancies (e.g. reset_char_name_link is a string but reset_password_link and account_link are URIs)
+		// All datatypes are correct. There are some weird discrepancies (e.g. reset_char_name_link is a string but reset_password_link and account_link are URIs)
+		// Any comments with "SPECULATION" before them are, hence their name, simple speculation and are NOT CONFIRMED IN ANY WAY AT ALL.
 
 		/// <summary>
 		/// <para>The username of the user launching the game. This argument is passed into SkySaga.exe via a json array and is required for it to launch.</para>
@@ -50,7 +51,7 @@ namespace SkysagaServerEmu {
 
 		/// <summary>
 		/// <para>Purpose is unknown.</para>
-		/// No speculation is able to be made on this property at the moment.</para>
+		/// <para>SPECULATION: "sg" is short for "SmileGate", presumably making this value into some form of authentication token to access data on their publisher's servers.</para>
 		/// </summary>
 		public bool sgauth { get; set; } = true;
 
