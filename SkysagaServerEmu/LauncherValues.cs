@@ -49,7 +49,7 @@ namespace SkysagaServerEmu {
 
 		/// <summary>
 		/// <para>Purpose is unknown.</para>
-		/// <para>SPECULATION: "sg" is short for "SmileGate", presumably making this value into some form of authentication token to access data on their publisher's servers.</para>
+		/// <para>SPECULATION: Given the standard usage of "sgauth", this may be used to store userdata e.g. launcher usage, how often you play, etc.</para>
 		/// </summary>
 		public bool sgauth { get; set; } = true;
 
