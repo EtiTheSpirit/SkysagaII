@@ -60,7 +60,7 @@ namespace SkysagaServerEmu {
 
 		/// <summary>
 		/// <para>Purpose is unknown.
-		/// Presumably this value does not change, making it a reference for the default empty page.</para>
+		/// "ftue" commonly refers to "First-Time User Experience", which may mean this page was designed for brand new users. It was never used during the alpha test.</para>
 		/// </summary>
 		public string ftue_page { get; set; } = "about:blank";
 
