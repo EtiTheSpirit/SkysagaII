@@ -1,0 +1,7 @@
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\bin\Debug\ArgPrinter.exe.config
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\bin\Debug\ArgPrinter.exe
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\bin\Debug\ArgPrinter.pdb
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\obj\Debug\ArgPrinter.csprojAssemblyReference.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\obj\Debug\ArgPrinter.csproj.CoreCompileInputs.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\obj\Debug\ArgPrinter.exe
+F:\Users\Xan\source\repos\SkysagaServerEmu\ArgPrinter\obj\Debug\ArgPrinter.pdb

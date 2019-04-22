@@ -1,0 +1,9 @@
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\bin\Debug\netstandard2.0\NetworkingShared.deps.json
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\bin\Debug\netstandard2.0\NetworkingShared.dll
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\obj\Debug\netstandard2.0\NetworkingShared.csprojAssemblyReference.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\obj\Debug\netstandard2.0\NetworkingShared.csproj.CoreCompileInputs.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\obj\Debug\netstandard2.0\NetworkingShared.AssemblyInfoInputs.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\obj\Debug\netstandard2.0\NetworkingShared.AssemblyInfo.cs
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\bin\Debug\netstandard2.0\NetworkingShared.pdb
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\obj\Debug\netstandard2.0\NetworkingShared.dll
+F:\Users\Xan\source\repos\SkysagaServerEmu\NetworkingShared\obj\Debug\netstandard2.0\NetworkingShared.pdb

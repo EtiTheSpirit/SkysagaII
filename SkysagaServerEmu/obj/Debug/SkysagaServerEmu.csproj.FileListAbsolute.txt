@@ -1,0 +1,14 @@
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\SkysagaServerEmu.exe.config
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\SkysagaServerEmu.exe
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\SkysagaServerEmu.pdb
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\obj\Debug\SkysagaServerEmu.csprojAssemblyReference.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\obj\Debug\SkysagaServerEmu.csproj.CoreCompileInputs.cache
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\obj\Debug\SkysagaServerEmu.exe
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\obj\Debug\SkysagaServerEmu.pdb
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\Newtonsoft.Json.pdb
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\Newtonsoft.Json.xml
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\obj\Debug\SkysagaServerEmu.csproj.CopyComplete
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\DotNetCross.Memory.Unsafe.dll
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\NetworkingShared.dll
+F:\Users\Xan\source\repos\SkysagaServerEmu\SkysagaServerEmu\bin\Debug\NetworkingShared.pdb
